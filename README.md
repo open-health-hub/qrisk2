@@ -1,13 +1,13 @@
-# Module: QRisk#
+# Module: QRisk
         `Defined in: qrisk.rb`
 
 ---
-### Public Class Methods ###
+### Public Class Methods
 ![](http://ruby-doc.org/images/brick.png) ::eval(options) → Float or Error String
 
         Evaluates QRisk2 score
   
-###   Parameters ###
+### Parameters
 
 options(<code>Hash&lt;<span style="color:purple">​Symbol</span>, <span style="color:cadetblue">Object</span>&gt;</span></code>) (defaults to: `{}`) — initial context configuration
 
@@ -29,7 +29,7 @@ ethnicity:                white | indian | pakistani | bangladeshi | other_asian
 
 ---
 
-### Original License ###
+### Original License
 
 Copyright 2013 ClinRisk Ltd.
 
@@ -65,7 +65,7 @@ This file was created on: Wed  8 May 2013 07:41:42 BST
 
 ---
 
-### Supplemental Info ###
+### Supplemental Info
 
 Ruby port by 3poundHealth.
 Copyright 2013 3poundHealth
