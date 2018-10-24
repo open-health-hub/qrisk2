@@ -7,7 +7,7 @@
 
         Evaluates QRisk2 score
   
-### Parameters
+### Parameters
 
 options(<code>Hash&lt;<span style="color:purple">​Symbol</span>, <span style="color:cadetblue">Object</span>&gt;</span></code>) (defaults to: `{}`) — initial context configuration
 
